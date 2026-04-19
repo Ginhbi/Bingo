@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Helvetica+Neue:wght@400;500;700;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-bingo-purple: #1E3A8A; /* Dark blue for primary */
+  --color-bingo-gold: #F59E0B; /* Amber for accents */
+  --color-bingo-neon: #3B82F6; /* Blue for primary accents */
+  --color-bingo-bg: #FFFFFF; /* White background */
+
+  --font-sans: "Helvetica Neue", Arial, sans-serif;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-bingo-bg);
+  color: #0F172A; /* Slate 900 for default text */
+  margin: 0;
+}
+

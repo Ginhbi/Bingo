@@ -1,0 +1,6 @@
+{
+  "name": "Bingo Mastre Live",
+  "description": "A real-time multiplayer bingo game with room creation, chat, auto-validating cards, and beautiful animations using Firebase Realtime Database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
